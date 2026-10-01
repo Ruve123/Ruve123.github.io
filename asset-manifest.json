@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Ruve123/static/css/main.f62345ed.css",
+    "main.js": "/Ruve123/static/js/main.2f1a40d3.js",
+    "static/css/64.bba8fa55.chunk.css": "/Ruve123/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/Ruve123/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/Ruve123/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.e4480cad.chunk.js": "/Ruve123/static/js/769.e4480cad.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/Ruve123/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/profile.png": "/Ruve123/static/media/profile.39dac6a191bb1e0b05e8.png",
+    "static/media/Agustina.woff": "/Ruve123/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/manOnTable.svg": "/Ruve123/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/Ruve123/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/Ruve123/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/skill.svg": "/Ruve123/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/resume.pdf": "/Ruve123/static/media/resume.663edad49aa69a7a49d5.pdf",
+    "index.html": "/Ruve123/index.html",
+    "static/media/wordpressLogo.svg": "/Ruve123/static/media/wordpressLogo.c0242f79a1f8a3ca83621b5f48b5eecf.svg",
+    "static/media/talksCardBack.svg": "/Ruve123/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.f62345ed.css.map": "/Ruve123/static/css/main.f62345ed.css.map",
+    "main.2f1a40d3.js.map": "/Ruve123/static/js/main.2f1a40d3.js.map",
+    "64.bba8fa55.chunk.css.map": "/Ruve123/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/Ruve123/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/Ruve123/static/css/769.b3cbb36b.chunk.css.map",
+    "769.e4480cad.chunk.js.map": "/Ruve123/static/js/769.e4480cad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f62345ed.css",
+    "static/js/main.2f1a40d3.js"
+  ]
+}
